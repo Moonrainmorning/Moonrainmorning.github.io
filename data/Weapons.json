@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"A legendary sword and gift from King Brenzer the 12th.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Luxion","note":"","params":[0,0,150,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":1,"description":"A wizard's wand with a crimson gem at its tip.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Scarlet Wand","note":"","params":[0,0,30,0,80,0,0,0],"price":0,"wtypeId":1},
+{"id":3,"animationId":1,"description":"A staff made of oak, the most suitable wood for magic.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Oak Staff","note":"","params":[0,0,20,0,80,0,0,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":11,"description":"A high class rapier made with silver.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Silver Rapier","note":"","params":[0,0,58,0,0,0,5,0],"price":500,"wtypeId":1}
+]
